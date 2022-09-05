@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Aadhi000/OP-Files-Store-Bot",
+  "repository": "https://github.com/d65ff6f3/OP-Files-Store-Bot?organization=d65ff6f3&organization=d65ff6f3",
   "logo": "https://telegra.ph/file/12921701faf018f20c6a4.jpg",
   "env": {
     "TG_BOT_TOKEN": {
